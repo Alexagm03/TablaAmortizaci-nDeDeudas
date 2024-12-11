@@ -1,6 +1,6 @@
 ---
 title: "Ensayo"
-author: "Equipo 1"
+author: "Alexa García, Gonzalo Alvarez, Angel Torres, Isabella Campos, Jesus Bravo, Jorge García"
 format: html
 editor: visual
 ---
