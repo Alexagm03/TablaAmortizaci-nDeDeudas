@@ -1,6 +1,6 @@
 ---
 title: "TablasAmortizacion"
-author: "Equipo 1"
+author: "Alexa García, Gonzalo Alvarez, Angel Torres, Isabella Campos, Jesus Bravo, Jorge García
 format: revealjs
 editor: visual
 ---
